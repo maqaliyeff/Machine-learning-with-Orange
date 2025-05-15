@@ -4,7 +4,7 @@
 This project implements machine learning algorithms to classify seven different types of dry beans using morphological features extracted from bean images. The project utilizes the Orange data mining tool to analyze and visualize data, implement hierarchical clustering, K-means clustering, and supervised classification algorithms.
 
 ## Dataset
-The Dry Bean Dataset from UCI Machine Learning Repository contains 13,611 instances of seven different types of dry beans with 16 morphological features extracted from bean images.
+The Dry Bean Dataset from UCI Machine Learning Repository contains 13,611 instances of seven different types of dry beans with 16 morphological features extracted from bean images. For this project, we used a subset of 400 instances to make the analysis more manageable.
 
 - **Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/602/dry+bean+dataset)
 - **Creators**: M. Koklu and A. Ozkan (Konya Food and Agriculture University, Turkey)
